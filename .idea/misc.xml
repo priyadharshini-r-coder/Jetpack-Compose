@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Indium Software/AndroidStudioProjects/ComposeOmnicure/app/src/main/res/drawable-v24/ic_logo.xml" value="0.25025641025641027" />
+        <entry key="..\:/Users/Indium Software/AndroidStudioProjects/ComposeOmnicure/app/src/main/res/drawable/account.xml" value="0.12291666666666666" />
+        <entry key="..\:/Users/Indium Software/AndroidStudioProjects/ComposeOmnicure/app/src/main/res/drawable/bg.xml" value="0.16354166666666667" />
+        <entry key="..\:/Users/Indium Software/AndroidStudioProjects/ComposeOmnicure/app/src/main/res/drawable/bg_color.xml" value="0.20555555555555555" />
+        <entry key="..\:/Users/Indium Software/AndroidStudioProjects/ComposeOmnicure/app/src/main/res/drawable/calendar_gray.xml" value="0.21197916666666666" />
+        <entry key="..\:/Users/Indium Software/AndroidStudioProjects/ComposeOmnicure/app/src/main/res/drawable/checkbox.xml" value="0.20555555555555555" />
+        <entry key="..\:/Users/Indium Software/AndroidStudioProjects/ComposeOmnicure/app/src/main/res/drawable/checkbox_unchecked.xml" value="0.20555555555555555" />
+        <entry key="..\:/Users/Indium Software/AndroidStudioProjects/ComposeOmnicure/app/src/main/res/drawable/file.xml" value="0.20555555555555555" />
+        <entry key="..\:/Users/Indium Software/AndroidStudioProjects/ComposeOmnicure/app/src/main/res/drawable/ic_add_clinical_data.xml" value="0.1" />
+        <entry key="..\:/Users/Indium Software/AndroidStudioProjects/ComposeOmnicure/app/src/main/res/drawable/ic_add_clinical_data_selector.xml" value="0.1" />
+        <entry key="..\:/Users/Indium Software/AndroidStudioProjects/ComposeOmnicure/app/src/main/res/drawable/ic_add_patient.xml" value="0.1" />
+        <entry key="..\:/Users/Indium Software/AndroidStudioProjects/ComposeOmnicure/app/src/main/res/drawable/ic_forward.xml" value="0.1" />
+        <entry key="..\:/Users/Indium Software/AndroidStudioProjects/ComposeOmnicure/app/src/main/res/drawable/ic_imageback.xml" value="0.1" />
+        <entry key="..\:/Users/Indium Software/AndroidStudioProjects/ComposeOmnicure/app/src/main/res/drawable/ic_step1.xml" value="0.14074074074074075" />
+        <entry key="..\:/Users/Indium Software/AndroidStudioProjects/ComposeOmnicure/app/src/main/res/drawable/logo_text.xml" value="0.24307692307692308" />
+        <entry key="..\:/Users/Indium Software/AndroidStudioProjects/ComposeOmnicure/app/src/main/res/drawable/spinner.xml" value="0.1625" />
+        <entry key="..\:/Users/Indium Software/AndroidStudioProjects/ComposeOmnicure/app/src/main/res/drawable/trailing_icon.xml" value="0.2111111111111111" />
+        <entry key="..\:/Users/Indium Software/AndroidStudioProjects/ComposeOmnicure/app/src/main/res/drawable/wifi.xml" value="0.13802083333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
